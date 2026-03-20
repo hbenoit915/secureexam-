@@ -1,0 +1,9 @@
+{
+  "name": "secureexam-benoit",
+  "version": "2.0.0",
+  "description": "SecureExam — Classroom Assessment Platform for Franklin High School",
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
